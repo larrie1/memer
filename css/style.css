@@ -1,7 +1,12 @@
 .theme-color {
-    background-color: #8989FF;
+    background-color: #340DDB;
+}
+
+.text-color {
+    color: white;
 }
 
 .navbar-inner {
     background:transparent;
 }
+
